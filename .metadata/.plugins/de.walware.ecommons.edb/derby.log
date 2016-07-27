@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat Aug 15 08:58:27 IST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014f-2f66-c0f6-00002f28bbea 
+on database directory C:\Jeyaraj\Analysis\PBG_Dashboards\java_projects\.metadata\.plugins\de.walware.statet.r.core\db with class loader org.eclipse.osgi.internal.loader.EquinoxClassLoader@36152513[de.walware.3rdparty-org.apache.derby.core:10.10.2000000.b201407171807E43sw(id=1056)] 
+Loaded from file:/C:/Jeyaraj/eclipse/eclipse/plugins/de.walware.3rdparty-org.apache.derby.core_10.10.2000000.b201407171807E43sw.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_51-b16
+user.dir=C:\Jeyaraj\eclipse\eclipse
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Jeyaraj\Analysis\PBG_Dashboards\java_projects\.metadata\.plugins\de.walware.ecommons.edb
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 15 21:44:08 IST 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Aug 15 21:44:09 IST 2015:
+Shutting down instance a816c00e-014f-2f66-c0f6-00002f28bbea on database directory C:\Jeyaraj\Analysis\PBG_Dashboards\java_projects\.metadata\.plugins\de.walware.statet.r.core\db with class loader org.eclipse.osgi.internal.loader.EquinoxClassLoader@36152513[de.walware.3rdparty-org.apache.derby.core:10.10.2000000.b201407171807E43sw(id=1056)] 
+----------------------------------------------------------------

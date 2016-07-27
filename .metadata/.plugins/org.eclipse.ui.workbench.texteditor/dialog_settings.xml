@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="353" key="DIALOG_WIDTH"/>
+		<item value="321" key="DIALOG_Y_ORIGIN"/>
+		<item value="1954" key="DIALOG_X_ORIGIN"/>
+		<item value="512" key="DIALOG_HEIGHT"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="insert" key="selection"/>
+		<list key="findhistory">
+			<item value="insert"/>
+			<item value="sqlEngine"/>
+			<item value="time"/>
+			<item value="Generics"/>
+			<item value="Object"/>
+			<item value="Map"/>
+			<item value="Default"/>
+			<item value="&#x09;&#x09;&#x09;&#x09;&#x09;System.out.print(&quot;Matched Option: &quot;); System.out.println(m.group(1));"/>
+		</list>
+		<list key="replacehistory">
+			<item value="&#x09;&#x09;&#x09;&#x09;&#x09;printChosenCommand(true, m.group(1));"/>
+			<item value="&#x09;&#x09;&#x09;&#x09;&#x09;printChosenCommand(false, m.group(1));"/>
+			<item value="ConstantsBookingDump."/>
+			<item value="ConstantsBookingDump"/>
+			<item value="ConstantsDumpFromFinance."/>
+			<item value=""/>
+			<item value="0"/>
+			<item value="1"/>
+		</list>
+	</section>
+</section>

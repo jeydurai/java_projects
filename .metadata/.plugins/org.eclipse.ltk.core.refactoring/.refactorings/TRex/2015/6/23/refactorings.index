@@ -1,0 +1,9 @@
+1433418220044	Rename package 'ConnectionStrings'
+1433493403433	Rename type 'TypeCustomizable'
+1433493424414	Rename type 'DSQuery'
+1433493516087	Rename type 'SQLQueryDataCustomizable'
+1433493633558	Rename type 'DSSQLQueryCustomizable'
+1433506779740	Rename type 'DSSQLFields'
+1433511894107	Delete element
+1433575290590	Rename type 'DSString'
+1433575305267	Rename type 'DSInteger'

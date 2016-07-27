@@ -1,0 +1,23 @@
+package coreClasses;
+
+public class BookingMasterSlave implements Runnable {
+
+	private String threadName, region;
+	private Integer year;
+	
+	public BookingMasterSlave (String threadName, String region, Integer year) {
+		this.threadName = threadName;
+	}
+	
+	@Override
+	public void run() {
+		for (int i = 1; i<=100000; i++) {
+			System.out.print("Thread Name ");
+			System.out.print(this.threadName);
+			System.out.print("i = ");
+			System.out.println(i);
+		}
+		
+	}
+
+}

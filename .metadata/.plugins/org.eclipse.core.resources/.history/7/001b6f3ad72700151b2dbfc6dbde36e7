@@ -1,0 +1,24 @@
+package coreClasses;
+
+import java.sql.Connection;
+
+import sql.MySQLConnection;
+
+public class BookingMasterSlave implements Runnable {
+
+	private String threadName, region;
+	private Integer year;
+	private Connection sqlConn;
+	
+	public BookingMasterSlave (String threadName, String region, Integer year, MySQLConnection connObject) {
+		this.threadName = threadName; this.region = region; this.year = year; this.sqlConn = connObject.acquirePooledSQLConnection();
+	}
+	
+	@Override
+	public void run() {
+
+		
+		
+	}
+
+}

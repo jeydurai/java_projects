@@ -1,0 +1,38 @@
+2015-12-27 13:47:35,606 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2015-12-27 13:47:35,668 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2015-12-29 20:58:22,919 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2015-12-29 20:58:22,922 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-01-01 12:14:17,266 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-01-01 12:14:17,268 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-01-02 11:20:20,938 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-01-02 11:20:20,942 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-01-14 18:29:45,501 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-01-14 18:29:45,503 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-02-22 13:59:49,210 ERROR [Worker-1] - System.err - 13:59:49,207 F: (BackendActivator.java:19) : Backend plugin starting
+2016-02-22 13:59:49,239 ERROR [Worker-1] - System.err - 13:59:49,239 F: (ErlangPlugin.java:73) : Core starting
+2016-02-22 13:59:49,260 ERROR [Worker-1] - System.err - 13:59:49,260 I: (ErlangCore.java:58) : Erlide log is in C:/Jeyaraj/Analysis/PBG_Dashboards/java_projects
+2016-02-22 13:59:49,265 ERROR [Worker-1] - System.err - 13:59:49,265 I: (ErlangCore.java:64) : Starting CORE Thread[Worker-1,5,main]
+2016-02-22 13:59:49,268 ERROR [Worker-1] - System.err - 13:59:49,268 I: (ErlangCore.java:79) : *** starting Erlide v0.29.13.201509181435 (core=0.24.13.201509181435) (model api=0.24.12.201509181435) *** (Cp1252) ui
+2016-02-22 13:59:49,272 ERROR [Worker-1] - System.err - 13:59:49,272 I: (ErlangCore.java:86) : Started CORE
+2016-02-22 13:59:49,273 ERROR [Worker-1] - System.err - 13:59:49,273 F: (ErlangPlugin.java:88) : Core started
+2016-02-22 13:59:50,315 ERROR [Worker-1] - System.err - 13:59:50,314 F: (ErlangHostnameRetriever.java:40) : Test long hostname: JEYDURAI-WS04.cisco.com
+2016-02-22 13:59:51,172 ERROR [Worker-1] - System.err - 13:59:51,172 F: (ErlangHostnameRetriever.java:40) : Test short hostname: JEYDURAI-WS04
+2016-02-22 13:59:51,192 ERROR [Worker-1] - System.err - 13:59:51,192 F: (HostnameUtils.java:74) : Detected:: JEYDURAI-WS04 && JEYDURAI-WS04.cisco.com
+2016-02-22 13:59:51,234 ERROR [Worker-1] - System.err - 13:59:51,234 F: (BackendActivator.java:25) : Backend plugin started
+2016-02-22 13:59:51,239 ERROR [Worker-1] - System.err - 13:59:51,239 I: (ErlideUIPlugin.java:132) : Starting UI Thread[Worker-1,5,main]
+2016-02-22 13:59:51,243 ERROR [Worker-1] - System.err - 13:59:51,242 F: (ModelActivator.java:19) : Starting Erlang model api
+2016-02-22 13:59:51,268 ERROR [Worker-1] - System.err - 13:59:51,268 F: (BackendFactory.java:42) : Create ide backend 18.1.0
+2016-02-22 13:59:51,268 ERROR [Worker-1] - System.err - 13:59:51,268 F: (BackendFactory.java:56) : Create backend 90e15_jeydurai_19551c_erlide
+2016-02-22 13:59:51,450 ERROR [Worker-1] - System.err - 13:59:51,450 F: (OtpNodeProxy.java:301) : Runtime 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com starting
+2016-02-22 13:59:51,451 ERROR [OtpNodeProxy 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com] - System.err - 13:59:51,451 F: (OtpNodeProxy.java:419) : START node :> ["c:\program files\erl7.1/bin/erl", -name, 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com, -setcookie, erlide] *** C:\Jeyaraj\Analysis\PBG_Dashboards\java_projects
+2016-02-22 13:59:51,475 ERROR [OtpNodeProxy 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com] - System.err - 13:59:51,475 F: (OtpNodeProxy.java:212) : 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com: waiting connection to peer...
+2016-02-22 13:59:54,512 ERROR [OtpNodeProxy 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com] - System.err - 13:59:54,511 F: (OtpNodeProxy.java:219) : connected!
+2016-02-22 13:59:54,642 ERROR [OtpNodeProxy 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com] - System.err - 13:59:54,642 F: (OtpNodeProxy.java:306) : Runtime 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com running
+2016-02-22 13:59:55,168 ERROR [Worker-1] - System.err - 13:59:55,167 F: (ModelActivator.java:30) : Started model api
+2016-02-22 13:59:55,220 ERROR [Worker-1] - System.err - 13:59:55,220 I: (ErlideUIPlugin.java:154) : Started UI
+2016-02-22 13:59:56,323 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-02-22 13:59:56,324 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-02-22 13:59:58,227 ERROR [OtpNodeProxy 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com] - System.err - 13:59:58,226 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_81955e9@JEYDURAI-WS04.cisco.com'}
+2016-02-22 13:59:58,230 ERROR [OtpNodeProxy 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com] - System.err - 13:59:58,229 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+2016-02-22 14:04:03,505 ERROR [Framework stop] - System.err - 14:04:03,505 F: (OtpNodeProxy.java:311) : Runtime 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com stopping
+2016-02-22 14:04:03,554 ERROR [OtpNodeProxy 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com] - System.err - 14:04:03,554 F: (OtpNodeProxy.java:271) : Runtime 90e15_jeydurai_19551c_erlide@JEYDURAI-WS04.cisco.com terminated

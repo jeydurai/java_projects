@@ -1,0 +1,22 @@
+package coreClasses;
+
+import sql.MySQLConnection;
+
+public class BookingMasterSlave implements Runnable {
+
+	private String threadName, region;
+	private Integer year;
+	private MySQLConnection sqlConnection;
+	
+	public BookingMasterSlave (String threadName, String region, Integer year, MySQLConnection conn) {
+		this.threadName = threadName; this.region = region; this.year = year; this.sqlConnection = conn;
+	}
+	
+	@Override
+	public void run() {
+
+		
+		
+	}
+
+}

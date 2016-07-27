@@ -1,0 +1,39 @@
+package coreClasses;
+
+import java.sql.Connection;
+
+import configurations.SQLFieldConfig;
+import dataStructures.DSSQLField;
+import GeneralConstants.Generics;
+import sql.MySQLConnection;
+
+public class BookingMasterSlave implements Runnable {
+
+	private String threadName, region;
+	private Integer year;
+	private Connection sqlConn;
+	private DSSQLField[] fieldDSArray ;
+	private SQLFieldConfig fieldConfig;
+	private SQLTableConfig tableConfig;
+	
+	public BookingMasterSlave (String threadName, String region, Integer year, MySQLConnection connObject) {
+		this.threadName = threadName; this.region = region; this.year = year; this.sqlConn = connObject.acquirePooledSQLConnection();
+	}
+	
+	@Override
+	public void run() {
+
+		// Preparing Fields in an array as Data Structure
+		this.fieldDSArray = new DSSQLField[2];
+		this.fieldDSArray[0] = new DSSQLField(Generics.FieldMode.FIELD, "Region", "region");
+		this.fieldDSArray[1] = new DSSQLField(Generics.FieldMode.SUM, "Booking", "booking_net");
+		
+		// Preparing Field Configuration for the Field Data Structure
+		this.fieldConfig = new SQLFieldConfig(fieldDSArray);
+		
+		
+		
+		
+	}
+
+}
